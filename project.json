@@ -1,0 +1,44 @@
+[
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 0,
+                "name": "unnamed",
+                "type": "normal",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\jonat\\manim - projects\\intersecting cords - manim\\media\\videos\\NoOpenGL\\720p30\\sections\\UseZoomedScene_0000.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "30",
+                "duration": 5.0,
+                "project_name": "hi",
+                "in_project_video": "video_0000.mp4",
+                "in_project_thumbnail": "thumb_0000.jpg",
+                "in_project_id": 0,
+                "parent_id": 0
+            }
+        ]
+    },
+    {
+        "sections_len": 1,
+        "sections": [
+            {
+                "id": 1,
+                "name": "unnamed",
+                "type": "skip",
+                "is_sub_section": false,
+                "original_video": "C:\\Users\\jonat\\manim - projects\\intersecting cords - manim\\media\\videos\\NoOpenGL\\720p30\\sections\\UseZoomedScene_0001.mp4",
+                "width": 1280,
+                "height": 720,
+                "fps": "30",
+                "duration": 31.0,
+                "project_name": "hi",
+                "in_project_video": "video_0001.mp4",
+                "in_project_thumbnail": "thumb_0001.jpg",
+                "in_project_id": 1,
+                "parent_id": 1
+            }
+        ]
+    }
+]
